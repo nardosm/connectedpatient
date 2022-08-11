@@ -1,0 +1,6 @@
+framework module Bots {
+  umbrella header "Bots.h"
+
+  export *
+  module * { export * }
+}

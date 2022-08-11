@@ -1,0 +1,74 @@
+PODS:
+  - Alamofire (4.7.1)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - Cosmos (15.0.0)
+  - CVCalendar (1.6.1)
+  - fluid-slider (0.0.6):
+    - pop
+  - FoldingCell (3.0.6)
+  - FoldingTabBar (1.2.1)
+  - GoogleMaps (2.6.0):
+    - GoogleMaps/Maps (= 2.6.0)
+  - GoogleMaps/Base (2.6.0)
+  - GoogleMaps/Maps (2.6.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.6.0):
+    - GoogleMaps/Base (= 2.6.0)
+  - pop (1.0.10)
+  - RAMPaperSwitch (2.1.0)
+  - SkyFloatingLabelTextField (3.4.1)
+  - SwiftSpinner (1.5.0)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage (~> 3.3)
+  - Cosmos (~> 15.0)
+  - CVCalendar (~> 1.6.1)
+  - fluid-slider
+  - FoldingCell
+  - FoldingTabBar (~> 1.2.1)
+  - GoogleMaps
+  - GooglePlaces
+  - RAMPaperSwitch
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SwiftSpinner
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - Cosmos
+    - CVCalendar
+    - fluid-slider
+    - FoldingCell
+    - FoldingTabBar
+    - GoogleMaps
+    - GooglePlaces
+    - pop
+    - RAMPaperSwitch
+    - SkyFloatingLabelTextField
+    - SwiftSpinner
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  Cosmos: a6dbd3d0baa0cc8f51f8598f7508d5a09d0a9ade
+  CVCalendar: 505c11b11a088b43f159806e791eba1c2540853b
+  fluid-slider: 3aeb48bd7f875dc0431963fde12674e69c7c0ed2
+  FoldingCell: 4848ec8a2056d5751bfb710df14521fc64d48ad7
+  FoldingTabBar: b1817b36d15eedefd8e42f66abbd36fe4feabcf2
+  GoogleMaps: 42f91c68b7fa2f84d5c86597b18ceb99f5414c7f
+  GooglePlaces: f6ddf33b75cef69e888907d9947c57198ed845f3
+  pop: 82ca6b068ce9278fd350fd9dd09482a0ce9492e6
+  RAMPaperSwitch: ef08af0400a040c9850e09253280deb77510becb
+  SkyFloatingLabelTextField: 8085f20f57f74a00cfcae58099299faa1a971035
+  SwiftSpinner: 4c058c7a1d6b444dd2e1d70988ead40783097133
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 2b21ada9104f30325dea718de2347dcf88725e96
+
+COCOAPODS: 1.5.3
